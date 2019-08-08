@@ -1,2 +1,2 @@
 # TypeScriptTester
-Repository fo study Typescripy
+Repository fo study TypeScript
